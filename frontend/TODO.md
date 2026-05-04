@@ -1,0 +1,1 @@
+- [ ] Set up React component structure for the main dashboard view
